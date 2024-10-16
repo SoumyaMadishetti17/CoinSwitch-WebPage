@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main{
+    margin: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.header,ul,li{
+    display: flex;
+}
+.header-space{
+    padding: auto;
+}
+button{
+    background-color: lightgreen;
+    border: none;
+    padding: 20px;
+}
+li{
+    margin-right: 15%;
+}
+.mid-1{
+    margin: 0 10% 0 10%;
+}
+.middle{
+    background-color: #F0F4FE;
+    height: auto;
+}
+.body-2,.body-3,.body{
+    padding: 8% 0 0 0;
+    font-size: 1.5em;
+}
+.body-2{
+    font-size: 2.5em;
+}
